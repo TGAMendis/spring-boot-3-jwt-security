@@ -33,6 +33,6 @@ To build and run the project, follow these steps:
 
 -> The application will be available at http://localhost:8080.
 
-![Project](assets/images/logo.png)
+![Project Diagram](assets/images/logo.png)
 
 
